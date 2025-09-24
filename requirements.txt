@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+numpy
+matplotlib
+reportlab
+camelot-py[cv]  # optional
