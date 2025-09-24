@@ -169,7 +169,7 @@ B.Tech in Computer Science & Engineering (Data Science)
     <li>GitHub: <a href="https://github.com/pratiksutar841">pratiksutar841</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/pratik-sutar">Pratik Sutar</a></li>
 </ul>
-<p>📧 Submission: Zip your folder (including bank_statement_extractor.py, requirements.txt, outputs, and this README.md) and email it to <a href="mailto:judy@cpc-analytics.com">judy@cpc-analytics.com</a> before 28th Sept 2025, 17:00 IST.</p>
+
 
 </body>
 </html>
