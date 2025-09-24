@@ -158,7 +158,11 @@ source venv/bin/activate     # Mac/Linux</pre>
 <img src="output_ICICI/timeline.png" alt="ICICI Bank Timeline Plot">
 
 <p>Example: Report PDF</p>
-<img src="https://github.com/pratiksutar841/CPC-ANALYTICS---Assignment-/blob/b80847e8920af75986efdc1c492eca1274f9c3b4/output_ICICI/report.pdf" alt="Sample Report PDF">
+<p>
+  <a href="https://github.com/pratiksutar841/CPC-ANALYTICS---Assignment-/blob/b80847e8920af75986efdc1c492eca1274f9c3b4/output_ICICI/report.pdf" target="_blank">
+    Click here to view the Report PDF
+  </a>
+</p>
 
 <h2>🙋‍♂️ Author</h2>
 <p>
